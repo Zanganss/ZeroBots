@@ -12,12 +12,12 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = BOT_Zanganzz_–'; // Nama Bot Whatsapp
+const BotName = Zero Botz_â€“'; // Nama Bot Whatsapp
 const instagramlu = 'https://instagram.com';//zanganzz_; // Nama Instagramlu cok
-const whatsapplu = '0822-9199-2581'; // Nomor whatsapplu cok
+const whatsapplu = '0853-4082-7717'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
-const grupch1 = 'https://chat.whatsapp.com/FGY4aVN2XUJLsMBr33gorc
-const grupch2 = 'https://chat.whatsapp.com/BAcCSCSBajfHmpvTKEdxXg'
+const grupch1 = 'Coming soon
+const grupch2 = 'Coming soon
 //
 cons
 
